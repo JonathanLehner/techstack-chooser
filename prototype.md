@@ -1,4 +1,6 @@
 Meteor.js
+- Suitable for prototypes and applications with a limited amount of concurrent users, such as in KMUs.
+
 Advantages:
 - Social auth integration
 - Minimongo to save data on client --> easy to implement PWAs

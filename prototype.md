@@ -18,6 +18,11 @@ Disadvantages:
 - Only supports mongodb
 - Many community packages not supported anymore
 
+Essential extensions:
+- Mongol shows the database in the client and helps with debugging. 
+https://github.com/msavin/Mongol-meteor-explore-minimongo-devtools
+- Meteor up for easy deployment https://github.com/zodern/meteor-up
+
 
 Vulcan.js 
 - based on Meteor.js
